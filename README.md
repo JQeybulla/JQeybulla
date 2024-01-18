@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JQeybulla
-- 👀 I’m interested in everything about programming (mostly: Python&Java)
+- 👀 I’m interested in everything about programming (mostly JavaScript related)
 - 🌱 I’m currently learning something I didn't know
 - 💞️ I’m looking to collaborate on anythinng interesting
 - 📫 How to reach me: qeybulla.aliverdev@gmail.com
